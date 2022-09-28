@@ -1,4 +1,4 @@
 The objective of the project was to overcome the common limitations with regards to the existing flooding attack detection methods in  wireless ad hoc networks 
-A new algorithm based on statistical analyis was developed.
+A new algorithm based on statistical analysis was developed.
 Proposed algorithm was able to detect the DOS attacks with higher accuracy than the existing algorithms.
 The algorithm and code is yet to be published as a research paper so the core details including the proposed method cannot be shared in a public platform.
